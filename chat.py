@@ -8,11 +8,11 @@ app = Flask(__name__)
 # CONFIGURACIONES
 # -----------------------------
 WHATSAPP_TOKEN = "EAAPObyrRpkoBPSia6igmdqUyoiIi8pP2StSLY8KkcZAXTmUgZARPlw4UDZCUUwPDSMZBDu6xsHVBaMm3JXZBKXetpt5LKyX9jDz6euxGZAdtztusduRWnZAI4TNR5mC7ehYEjhbBjdg5j4MpN3ZCRzU6XhpR0RWN1juKMTMZCbG3RCRuNJGdzkIE5ZBUaXB8jfd2zR9ezee7q7jlIBrtUXv4J5hUNKDYZCwPlcZCpefcBuuwHjoZD"  # token de Meta Developers
-WHATSAPP_PHONE_ID = "+1 555 156 6468"  # el que aparece en meta
+WHATSAPP_PHONE_ID = "+1 555 156 6468"  
 OPENAI_API_KEY = "TU_API_KEY_OPENAI"
 
 # URLs de las APIs
-WHATSAPP_URL = f"https://graph.facebook.com/v21.0/{WHATSAPP_PHONE_ID}/messages"
+WHATSAPP_URL = f"https://graph.facebook.com/v21.0/{857442030778486}/messages"
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
 # -----------------------------
