@@ -7,8 +7,8 @@ app = Flask(__name__)
 # -----------------------------
 # CONFIGURACIONES
 # -----------------------------
-WHATSAPP_TOKEN = "TU_TOKEN_DE_META"  # token de Meta Developers
-WHATSAPP_PHONE_ID = "TU_PHONE_NUMBER_ID"  # el que aparece en meta
+WHATSAPP_TOKEN = "EAAPObyrRpkoBPSia6igmdqUyoiIi8pP2StSLY8KkcZAXTmUgZARPlw4UDZCUUwPDSMZBDu6xsHVBaMm3JXZBKXetpt5LKyX9jDz6euxGZAdtztusduRWnZAI4TNR5mC7ehYEjhbBjdg5j4MpN3ZCRzU6XhpR0RWN1juKMTMZCbG3RCRuNJGdzkIE5ZBUaXB8jfd2zR9ezee7q7jlIBrtUXv4J5hUNKDYZCwPlcZCpefcBuuwHjoZD"  # token de Meta Developers
+WHATSAPP_PHONE_ID = "+1 555 156 6468"  # el que aparece en meta
 OPENAI_API_KEY = "TU_API_KEY_OPENAI"
 
 # URLs de las APIs
